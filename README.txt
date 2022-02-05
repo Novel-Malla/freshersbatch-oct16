@@ -1,2 +1,2 @@
-Assignments folder. C1.
+Assignments folder. C1. Hello!
 Learning Git.
